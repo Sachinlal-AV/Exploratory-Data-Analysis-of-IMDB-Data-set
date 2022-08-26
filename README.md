@@ -1,2 +1,13 @@
-# Exploratory-Data-Analysis-of-IMDB-Data-set
-This short project showcases the EDA on IMDB data set containing more than 3000 film list.
+
+# Exploratory Data Analysis on IMDB Data set
+
+This short project carries out the EDA (Exploratory Data Analysis) on IMDB data set having 3000 movie list to extract useful insights on movies that made highest profit, highest average ROI and unique genres etc.
+## Acknowledgements
+
+ - [IMDB_Data Set](https://www.imdb.com/interfaces/)
+ 
+ 
+
+
+ 
+
